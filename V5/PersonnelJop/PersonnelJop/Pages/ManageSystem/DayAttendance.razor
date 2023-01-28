@@ -1,0 +1,111 @@
+﻿@page "/dayattend"
+@using DB
+@inject IDataService DataService
+@inject IAttendingDataService AttendingDataServices
+@inject ILeavingDataService LeavingDataService
+
+
+@if (datas == null)
+{
+
+
+    <p><em>Loading...</em></p>
+}
+else
+{
+
+    <div class="container" align="center" style="color: wheat;">
+        <div class="row">
+            <div class="col">
+                <input type="month" @bind="@date"/>
+                <hr />
+                <button class="btn btn-info" @onclick="GetDates">بحث</button>
+                <select @bind="@SelectName">
+                    <option selected disabled>ChooseEmployee</option>
+                    @foreach (var item in datas)
+                    {
+                        <option>@item.empname</option>
+                    }
+                </select>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <table class="table"style="color: wheat;">
+                    <thead>
+                        <tr>
+                            <th scope="col">اسم الموظف</th>
+                            <th scope="col">الحضور</th>
+                            <th scope="col">الانصراف</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                       
+                      
+
+                            @foreach (var (atend, leav) in atnd.Zip(lvs))
+                            {<tr>
+                                <td>@name</td>
+                                <td>@atend.ToString()</td>
+                                <td>@leav.ToString()</td>
+                        </tr>
+                            }
+
+
+                        
+                        
+
+                    </tbody>
+                </table>
+</div>
+        </div>
+    </div>
+}
+
+
+
+
+
+
+@code {
+    private string name { get; set; }
+    private DateTime date { get; set; }
+    private string attends { get; set; }
+    private string leave { get; set; }
+    private string SelectName { get; set; }
+    IEnumerable<Data> datas;
+    IEnumerable<AttendingData> Attendingdatas;
+    IEnumerable<LeavingData> Leavingdatas;
+    private List<string> atnd = new List<string>();
+    private List<string> lvs = new List<string>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        datas = await DataService.GetData();
+        Attendingdatas = await AttendingDataServices.GetAttendingData();
+        Leavingdatas = await LeavingDataService.GetLeavingData();
+    }
+    private async void  GetDates()
+    {
+        foreach(var (attend,lev) in Attendingdatas.Zip(Leavingdatas))
+        {
+            
+            if (attend.empname == lev.empname && attend.empname == SelectName && lev.empname == SelectName)
+            {
+                if (date.Month.ToString() == attend.AttendsDate.Month.ToString() && date.Month.ToString() == lev.LeavesDate.Month.ToString() && date.Year.ToString()
+                    == attend.AttendsDate.Year.ToString() && date.Year.ToString() == lev.LeavesDate.Year.ToString())
+                {
+                    name = attend.empname;
+                    atnd.Add(attend.AttendsDate.ToString());
+                    lvs.Add(lev.LeavesDate.ToString());
+                    
+
+                }
+            }
+
+
+        }
+    }
+}

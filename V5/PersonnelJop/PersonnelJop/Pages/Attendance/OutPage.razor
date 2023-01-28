@@ -1,0 +1,133 @@
+﻿@page "/out"
+
+@using DB
+@inject IDataService DataService
+@inject ILeavingDataService LeavingDataService
+@inject IAttendingDataService AttendingDataService
+
+@if (datas == null)
+{
+
+
+<p><em>Loading...</em></p> }
+            else
+            {
+<div class="container" align="center" dir="rtl" style="color: wheat;">
+    <div class="row">
+        <div class="col">
+            <select @bind="@SelectName">
+                <option selected disabled>Choose Emplyee</option>
+                @foreach (var item in datas)
+                {
+<option>@item.empname</option>}
+
+
+            </select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <input disabled @bind="@date"/>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-success" @onclick="CreateDataLeaving">انصراف</button>
+            <label>@errormessage</label>
+            
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+@code {
+    private string errormessage { get; set; }
+    private string SelectName { get; set; }
+    private bool test { get; set; } = true;
+    int num = 0;
+    public List<LeaveCalc> leavecheck = new List<LeaveCalc>();
+    LeavingData Leavingdat = new LeavingData();
+    private DateTime date = DateTime.Now;
+    private string er { get; set; }
+    IEnumerable<LeavingData> Leavingdatas;
+    protected override void OnInitialized()
+    {
+
+        Leavingdat.LeavesDate = date;
+        Leavingdat.empname = SelectName;
+
+    }
+    private void CreateDataLeaving()
+    {
+        foreach (var item in Leavingdatas)
+        {
+            if (item.empname == SelectName)
+            {
+                leavecheck.Add(new LeaveCalc
+                {
+                    leavesname = item.empname,
+                    date = item.LeavesDate.ToShortDateString().ToString()
+                }) ;
+            }
+        }
+        foreach(var item in leavecheck)
+        {
+            if(item.date == date.ToShortDateString())
+            {
+                test = false;
+            }
+        }
+        if(test == false)
+        {
+            errormessage = "Ur Already Signed out";
+        }
+
+        else
+        {
+            foreach(var item in Attendingdatas)
+            {
+                if(SelectName == item.empname)
+                {
+                    er = $"day1 : {item.AttendsDate.Day} +day2: {date.Day} +month1: {item.AttendsDate.Month} +month2: {date.Month}";
+                    if (item.AttendsDate.Day == date.Day && item.AttendsDate.Month == date.Month)
+                    {
+                        Leavingdat.empname = SelectName;
+                        LeavingDataService.CreateDataLeaving(Leavingdat);
+                        errormessage = $"Done u signed in {DateTime.Now}";
+                        break;
+                    }
+                    else
+                    {
+                        errormessage = "you r not in to out";
+                    }
+                }
+
+
+
+
+            }
+
+        }
+
+    }
+
+
+
+    IEnumerable<Data> datas;
+    IEnumerable<AttendingData> Attendingdatas;
+    protected override async Task OnInitializedAsync()
+    {
+        datas = await DataService.GetData();
+        Attendingdatas = await AttendingDataService.GetAttendingData();
+        Leavingdatas = await LeavingDataService.GetLeavingData();
+
+    } }
+  }

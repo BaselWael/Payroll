@@ -1,0 +1,33 @@
+﻿@page "/empshift"
+
+
+@using DB
+@inject IShiftData ShiftDataService
+
+
+<div class="container" dir="rtl" align="center" style="color: wheat;">
+    <div class="row">
+        <div class="col">
+            <div class="mb-3">
+                <label>من</label>
+                <input type="text" @bind="@Shiftdat.timefrom" />
+                <label>الي</label>
+                <input type="text" @bind="@Shiftdat.timeto"/>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-success" @onclick="CreateDataShift">اضافه</button>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@code {
+    ShiftData Shiftdat = new ShiftData();
+    protected async Task CreateDataShift()
+    {
+        await ShiftDataService.CreateDataShift(Shiftdat);
+
+    }
+}

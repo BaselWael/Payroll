@@ -1,0 +1,30 @@
+﻿@page "/empjop"
+@using DB
+
+@inject IJopDataService JopDataService
+
+
+
+<div class="container" align="center" dir="rtl" style="color: wheat;">
+    <div class="row">
+        <div class="col">
+            <label>اعداد وظيفه</label>
+            <input type="text" @bind="@Jopdat.jop" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-success" @onclick="CreateDataJop">اضافه</button>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    JopData Jopdat = new JopData();
+    protected async Task CreateDataJop()
+    {
+        await JopDataService.CreateDataJop(Jopdat);
+
+    }
+}

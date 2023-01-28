@@ -1,0 +1,1323 @@
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+C:\Users\SBT\source\repos\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+D:\LastEdit\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+E:\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\DateBegain.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\DateBegain.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+F:\jop\mine\V3\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\DateBegain.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\DateBegain.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\DayAttendance.razor.g.cs
+C:\Users\SBT\Desktop\jop\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\DayAttendance.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\DayAttendance.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\DateBegain.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\DayAttendance.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\DateBegain.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+F:\jop\mine\V4\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\DayAttendance.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\DateBegain.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\DayAttendance.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\DateBegain.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+C:\Users\SBT\Desktop\last edit\jop\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\DayAttendance.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\DateBegain.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\DayAttendance.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\DateBegain.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+D:\jop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\DayAttendance.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\DateBegain.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\DayAttendance.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\DateBegain.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Management.razor.g.cs
+C:\Users\SBT\Desktop\V6\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Management.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\appsettings.json
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.StaticWebAssets.xml
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.exe
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.deps.json
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.json
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.runtimeconfig.dev.json
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.pdb
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Dapper.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfoInputs.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.AssemblyInfo.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CoreCompileInputs.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.input.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Management.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\DayAttendance.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\DateBegain.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Setting\Setting.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorComponent.output.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\PersonnelJop.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.input.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.TagHelpers.output.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorCoreGenerate.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\AttendancePage.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\EnterPage.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Attendance\OutPage.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Management.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\DayAttendance.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Discount.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Incentives.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Loans.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\ManageSystemPage.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\ManageSystem\Salary.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\AllEmployee.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\DateBegain.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmplyeeShifts.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\EmpolyeeJop.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\LateSetting.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\PreparingEmplyee.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Setting\Setting.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorAssemblyInfo.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.Manifest.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\staticwebassets\PersonnelJop.StaticWebAssets.xml
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\bundle\PersonnelJop.styles.css
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\scopedcss\projectbundle\PersonnelJop.bundle.scp.css
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.RazorTargetAssemblyInfo.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.Views.pdb
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.CopyComplete
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\ref\PersonnelJop.dll
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.pdb
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.genruntimeconfig.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\PersonnelJop.csproj.AssemblyReference.cache
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\RazorDeclaration\Pages\Systems.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+C:\Users\bslwa\Desktop\V6 Desgin\V5\PersonnelJop\PersonnelJop\obj\Debug\net5.0\Razor\Pages\Systems.razor.g.cs

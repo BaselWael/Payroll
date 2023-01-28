@@ -1,0 +1,118 @@
+﻿@page "/enterr"
+
+@using DB
+@inject IDataService DataService
+@inject IAttendingDataService AttendingDataService
+
+@if (datas == null)
+{
+
+
+<p><em>Loading...</em></p> }
+else
+{
+<div class="container" align="center" dir="rtl" style="color: wheat;">
+    <div class="row">
+        <div class="col">
+            <select class="select-control" @bind="@SelectName">
+                <option selected disabled>ChooseEmployee</option>
+                @foreach (var item in datas)
+                {
+<option>@item.empname</option>}
+
+            </select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <input type="datetime" disabled @bind="@date" />
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-success" @onclick="CreateDataAttending">حضور</button>
+            
+           
+            <label>@errormessage</label>
+        </div>
+    </div>
+
+</div>
+}
+
+
+
+
+
+@code {
+
+
+    private string errormessage { get; set; }
+    private string SelectName { get; set; }
+    private bool test { get; set; } = true;
+    IEnumerable<AttendingData> Attendingdatas;
+    AttendingData Attendingdat = new AttendingData();
+    private DateTime date = DateTime.Now;
+    private List<AttendListCalc> attendcalc = new List<AttendListCalc>();
+    protected override void OnInitialized()
+    {
+        Attendingdat.empname = SelectName;
+        Attendingdat.AttendsDate = date;
+    }
+
+
+
+
+    private void CreateDataAttending()
+    {
+
+        foreach (var item in Attendingdatas) //add all names and dates in list
+        {
+            if (item.empname == SelectName)
+            {
+                attendcalc.Add(new AttendListCalc
+                {
+                    attendnames = item.empname,
+                    date = item.AttendsDate.ToShortDateString().ToString()
+                });
+
+            }
+        }
+        foreach(var item in attendcalc)
+        {
+            if(item.date == date.ToShortDateString())
+            {
+                test = false;
+            }
+        }
+        if(test == false)
+        {
+            errormessage = "Ur Already signed in";
+        }
+        else
+        {
+
+            Attendingdat.empname = SelectName;
+            AttendingDataService.CreateDataAttending(Attendingdat);
+            errormessage = $"Done u signed in {DateTime.Now}";
+
+        }
+        //if(DateTime.Now.Day.ToString() == "1")
+        //    {
+        //        AttendingDataService.DeleteAllRows();
+        //    }
+
+
+
+
+    }
+
+
+    IEnumerable<Data> datas;
+    protected override async Task OnInitializedAsync()
+    {
+        datas = await DataService.GetData();
+        Attendingdatas = await AttendingDataService.GetAttendingData();
+    }
+    }

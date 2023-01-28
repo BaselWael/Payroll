@@ -1,0 +1,167 @@
+@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+
+html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /*background-image: url(../Background.jpg);
+    height: 100%;*/
+    /* Center and scale the image nicely */
+    /*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background-image:url("../background.png");
+    background-size:cover;
+    height:100%;
+}
+
+
+a, .btn-link {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.content {
+    padding-top: 7.1rem;
+}
+
+.valid.modified:not([type=checkbox]) {
+    outline: 1px solid #26b050;
+}
+
+.invalid {
+    outline: 1px solid red;
+}
+
+.validation-message {
+    color: red;
+}
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+    }
+
+
+button {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 8px rgb(207, 207, 207);
+}
+
+    button:hover {
+        border: none;
+        padding: 15px;
+        border-radius: 15px;
+        box-shadow: inset 0 0 8px #f9f8fc;
+    }
+.button-os {
+    /*position: absolute;*/
+    width: 200px;
+    height: 65px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    margin: auto;
+    background-color: #f9f8fc;
+    border: 2.5px solid #0e172c;
+    transition: background-color 2.2s;
+    transition-duration: 3s;
+    transition: 1.5s;
+}
+
+    .button-os:hover {
+        position: absolute;
+        top: 30px;
+        background-color: #fec7d7;
+    }
+
+    .button-os a {
+        font-size: 20px;
+        display: block;
+        text-decoration: none;
+        color: crimson;
+        transition: 1.5s;
+    }
+
+        .button-os a:hover {
+            letter-spacing: 5px;
+        }
+.container3 {
+    height: 400px;
+    width: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 30px;
+    position: absolute;
+    top: 50%;
+    left: 58%;
+    padding: 140px;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+        /*top: 0.5rem;
+    }
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #1A1E23;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    list-style-type: none;
+    li padding: 6px 0;
+}
+a {
+    --fill-color: #198CE6;
+    position: relative;
+    display: block;
+    padding: 4px 0;
+    font: 700 3rem Raleway, sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-text-stroke: 2px var(--fill-color);
+    background: linear-gradient(var(--fill-color) 0 100%) left / 0 no-repeat;
+    color: transparent;
+    background-clip: text;
+    transition: 0.5s linear;
+}
+    &:hover
+
+{
+    background-size: 100%;
+}*/
+

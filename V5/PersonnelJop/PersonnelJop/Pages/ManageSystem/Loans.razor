@@ -1,0 +1,116 @@
+﻿@page "/Loans"
+
+@using DB.Loans
+@using DB
+@inject ILoansDataService LoansDataService
+@inject IDataService DataService
+
+
+@if (datas == null)
+{
+
+
+<p><em>Loading...</em></p> }
+                else
+                {
+
+<div class="container" style="color: wheat;">
+    <div class="row">
+
+
+
+        <div class="col" dir="rtl">
+            <div class="mb-3">
+                <label>اختر الموظف</label>
+                <select @bind="@Loansdat.empname">
+                    <option selected disabled>ChooseEmployee</option>
+                    @foreach (var item in datas)
+                    {
+<option>@item.empname</option>                    }
+
+
+                </select>
+            </div>
+            <div class="mb-3">
+                <label>السبب</label>
+                <input type="text" @bind="@Loansdat.loansreason" />
+            </div>
+
+            <div class="mb-3">
+                <label>القيمه</label>
+                <input type="text" @bind="@Loansdat.loansval" />
+            </div>
+            <div class="mb-3">
+                <label>التاريخ</label>
+                <input type="datetime" disabled @bind="@date" />
+            </div>
+        </div>
+
+        <div class="col" dir="rtl">
+            <div class="mb-3">
+                <label>اختر الموظف</label>
+                <select @bind="@Nameselect">
+                    <option selected disabled>ChooseEmployee</option>
+                    @foreach (var item in Loansdatt)
+                    {
+                        <option>@item.empname</option>
+                    }
+
+
+                </select>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-success">بحث</button>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+
+                        <th scope="col">السبب</th>
+                        <th scope="col">القيمه</th>
+                        <th scope="col">التاديخ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Loansdatt)
+                    {
+@if (item.empname == Nameselect)
+{
+<tr>
+
+    <td>@item.loansreason</td>
+    <td>@item.loansval</td>
+    <td>@item.loansdate</td>
+</tr>                        }                    }
+
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+    <button class="btn btn-success" @onclick="CreateDataLoan">اضافه</button>
+</div>}
+
+
+
+
+                @code {
+                    private DateTime date = DateTime.Now;
+
+                    private string Nameselect { get; set; }
+                    LoansData Loansdat = new LoansData();
+                    protected async Task CreateDataLoan()
+                    {
+                        await LoansDataService.CreateDataLoan(Loansdat);
+
+                    }
+                    IEnumerable<Data> datas;
+                    IEnumerable<LoansData> Loansdatt;
+                    protected override async Task OnInitializedAsync()
+                    {
+                        Loansdat.loansdate = date;
+                        datas = await DataService.GetData();
+                        Loansdatt = await LoansDataService.GetDataLoan();
+                    }
+                }

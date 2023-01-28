@@ -1,0 +1,125 @@
+﻿@page "/incentives"
+@using DB
+@inject IIncentivesDataService IncentiveDataService
+@inject IDataService DataService
+
+
+@if (datas == null)
+{
+
+
+    <p><em>Loading...</em></p>
+}
+else
+{
+
+<div class="container" style="color: wheat;">
+    <div class="row">
+
+
+
+        <div class="col" dir="rtl">
+            <div class="mb-3">
+                <label>اختر الموظف</label>
+                <select @bind="@Incentivedat.empname">
+                    <option selected disabled>ChooseEmployee</option>
+                    @foreach (var item in datas)
+                    {
+                        <option>@item.empname</option>
+                    }
+
+
+                </select>
+            </div>
+            <div class="mb-3">
+                <label>السبب</label>
+                <input type="text" @bind="@Incentivedat.empreason" />
+            </div>
+
+            <div class="mb-3">
+                <label>القيمه</label>
+                <input type="text" @bind="@Incentivedat.incentivesval" />
+            </div>
+            <div class="mb-3">
+                <label>التاريخ</label>
+                <input type="datetime" @bind="@date" disabled />
+            </div>
+        </div>
+
+        <div class="col" dir="rtl">
+            <div class="mb-3">
+                <label>اختر الموظف</label>
+                <select @bind="@Nameselect">
+                    <option selected disabled>ChooseEmployee</option>
+                    @foreach(var item in Incentivedatt)
+                {
+                    <option>@item.empname</option>
+                }
+
+
+                </select>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-success">بحث</button>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        
+                        <th scope="col">السبب</th>
+                        <th scope="col">القيمه</th>
+                        <th scope="col">التاديخ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Incentivedatt)
+                    {
+                        @if (item.empname == Nameselect)
+                        {
+                            <tr>
+                                
+                                <td>@item.empreason</td>
+                                <td>@item.incentivesval</td>
+                                <td>@item.incentivesdate</td>
+                            </tr>
+                        }
+                    }
+
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+    <button class="btn btn-success" @onclick="CreateDataIncentive">اضافه</button>
+</div>
+            }
+
+
+
+
+
+
+
+
+
+
+@code { 
+    private DateTime date = DateTime.Now;
+    private string Nameselect { get; set; }
+    IncentivesData Incentivedat = new IncentivesData();
+    protected async Task CreateDataIncentive()
+    {
+        await IncentiveDataService.CreateDataIncentive(Incentivedat);
+
+    }
+    IEnumerable<Data> datas;
+    IEnumerable<IncentivesData> Incentivedatt;
+    protected override async Task OnInitializedAsync()
+    {
+        Incentivedat.incentivesdate = date;
+        datas = await DataService.GetData();
+        Incentivedatt = await IncentiveDataService.GetDataIncentive();
+    }
+
+}

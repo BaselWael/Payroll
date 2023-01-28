@@ -1,0 +1,120 @@
+﻿@page "/discount"
+@using DB
+@inject IDiscountDataService DiscountDataService
+@inject IDataService DataService
+
+
+
+@if (Discountdatt == null)
+{
+
+
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="container" style="color: wheat;">
+        <div class="row">
+
+
+
+            <div class="col" dir="rtl">
+                <div class="mb-3">
+                    <label>اختر الموظف</label>
+                    <select @bind="@Discountdat.empname">
+                        <option selected disabled>Choose Emplyee</option>
+                        @foreach (var item in datas)
+                        {
+                            <option>@item.empname</option>
+                        }
+
+
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label>السبب</label>
+                    <input type="text" @bind="@Discountdat.discountreason" />
+                </div>
+
+                <div class="mb-3">
+                    <label>القيمه</label>
+                    <input type="text" @bind="@Discountdat.discountval">
+                </div>
+                <div class="mb-3">
+                    <label>التاريخ</label>
+                    <input type="datetime" @bind="@date" disabled/>
+                </div>
+            </div>
+
+            <div class="col" dir="rtl">
+                <div class="mb-3">
+                    <label>اختر الموظف</label>
+                    <select @bind="@Nameselect">
+                        <option selected disabled>Choose Emplyee</option>
+                        @foreach (var item in Discountdatt)
+                        {
+                            <option>@item.empname</option>
+                        }
+
+
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <button class="btn btn-success">بحث</button>
+                </div>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            
+                            <th scope="col">السبب</th>
+                            <th scope="col">القيمه</th>
+                            <th scope="col">التاديخ</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Discountdatt)
+                        {
+                            @if (item.empname == Nameselect)
+                            {
+                                <tr>
+
+                                    <td>@item.discountreason</td>
+                                    <td>@item.discountval</td>
+                                    <td>@item.discountdate</td>
+
+                                </tr>
+                            }
+
+                        }
+
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+        <button class="btn btn-success" @onclick="CreateDataDiscount">خصم</button>
+    </div>
+}
+
+
+
+@code {
+    private DateTime date = DateTime.Now;
+    private string Nameselect { get; set; }
+    DiscountData Discountdat = new DiscountData();
+    protected async Task CreateDataDiscount()
+    {
+        await DiscountDataService.CreateDataDiscount(Discountdat);
+    }
+
+    IEnumerable<DiscountData> Discountdatt;
+    IEnumerable<Data> datas;
+    protected override async Task OnInitializedAsync()
+    {
+        Discountdat.discountdate = date;
+        Discountdatt = await DiscountDataService.GetDataDiscount();
+        datas = await DataService.GetData();
+    }
+
+}

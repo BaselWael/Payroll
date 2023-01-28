@@ -1,0 +1,234 @@
+﻿@page "/empolyeeSetting"
+@using DB
+@using System.Threading;
+
+@inject IDataService DataService
+@inject IShiftData ShiftDataService
+@inject IJopDataService JopDataService
+@inject IDiscountDataService DiscountDataService
+@inject ILoansDataService LoansDataService
+@inject IIncentivesDataService IncentiveDataService
+@inject NavigationManager NavigationManager
+
+
+
+@if (datas == null)
+{
+
+
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="container" dir="rtl" align="center" style="width:75%; color:wheat; height:50%;">
+        <div class="row">
+            <div class="col" style="">
+                <div class="mb-3">
+
+                    <label>اختر اسم الموظف</label>
+                    <select class="form-select" aria-label="Default select example" @bind="@selectName">
+                        <option selected disabled>Choose EmpolyeeName</option>
+                        @foreach (var item in datas)
+                        {
+                            <option>@item.empname</option>
+                        }
+
+
+                    </select>
+                </div>
+                @foreach (var item in datas)
+                {
+
+                    @if (item.empname == selectName)
+                    {
+                        <div class="mb-3">
+                            <label class="form-label"> كودالعميل</label>
+                            <input type="text" value="@item.Id" disabled>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">اسم العميل</label>
+                            <input type="text" class="form-control" value="@item.empname" disabled>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">رقم التليفون</label>
+                            <input type="text" class="form-control" value="@item.empphone" disabled>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">رقم تليفون اخر</label>
+                            <input type="text" class="form-control" value="@item.empphone2" disabled>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">العنوان</label>
+                            <input type="text" class="form-control" value="@item.empaddress" disabled>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">رقم البطاقه</label>
+                            <input type="text" class="form-control" value="@item.empid" disabled>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">الورديه</label>
+                            <select class="form-select" aria-label="Default select example" disabled>
+                                <option>@item.empshift</option>
+
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">نوع العمل</label>
+                            <select class="form-select" aria-label="Default select example" disabled>
+                                <option selected>@item.empjoptype</option>
+
+
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">المرتب</label>
+                            <input type="text" class="form-control" value="@item.empsalary" disabled>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">يوم الاجازه</label>
+                            <select class="form-select" aria-label="Default select example" disabled>
+                                <option selected>@item.empholiday</option>
+                                <option value="1">saturday</option>
+                                <option value="2">sunday</option>
+                                <option value="3">monday</option>
+                                <option value="3">Tuesday</option>
+                                <option value="3">wensday</option>
+                                <option value="3">thursday</option>
+                                <option value="3">friday</option>
+                            </select>
+                        </div>
+                    }
+
+
+                }
+
+            </div>
+
+            <div class="col">
+
+                <div class="mb-3">
+                    <label class="form-label"> كودالعميل</label>
+                    <input type="text" disabled value="@dat.Id">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">اسم العميل</label>
+                    <input type="text" class="form-control" @bind="@dat.empname">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">رقم التليفون</label>
+                    <input type="text" class="form-control" @bind="@dat.empphone">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">رقم تليفون اخر</label>
+                    <input type="text" class="form-control" @bind="@dat.empphone2">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">العنوان</label>
+                    <input type="text" class="form-control" @bind="@dat.empaddress">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">رقم البطاقه</label>
+                    <input type="text" class="form-control" @bind="@dat.empid">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">الورديه</label>
+                    <select class="form-select" aria-label="Default select example" @bind="@dat.empshift">
+
+                        <option selected disabled>ChooseShift</option>
+                        @foreach (var item in Shiftdat)
+                        {
+                            <option dir="rtl">من @item.timefrom الي @item.timeto</option>
+                        }
+
+
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">نوع العمل</label>
+                    <select class="form-select" aria-label="Default select example" @bind="@dat.empjoptype">
+                        <option selected disabled>Choose Jop</option>
+                        @foreach (var item in Jopdat)
+                        {
+                            <option>@item.jop</option>
+                        }
+
+
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">المرتب</label>
+                    <input type="text" class="form-control" @bind="@dat.empsalary">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">يوم الاجازه</label>
+                    <select class="form-select" aria-label="Default select example" @bind="@dat.empholiday">
+                        <option selected>Open this select menu</option>
+                        <option value="saturday">saturday</option>
+                        <option value="sunday">sunday</option>
+                        <option value="monday">monday</option>
+                        <option value="Tuesday">Tuesday</option>
+                        <option value="wensday">wensday</option>
+                        <option value="thursday">thursday</option>
+                        <option value="friday">friday</option>
+                    </select>
+                </div>
+                <button class="btn btn-success" @onclick="CreateData" value="Save">Add</button>
+                <label>@message</label>
+
+            </div>
+
+        </div>
+
+    </div>
+}
+
+
+
+
+
+@code {
+    private string message { get; set; }
+    private string selectName { get; set; }
+    public int id { get; set; }
+    public int num { get; set; } = 0;
+    Data dat = new Data();
+    DiscountData Discountdat = new DiscountData();
+    LoansData Loandat = new LoansData();
+    IncentivesData Incentivedat = new IncentivesData();
+    IEnumerable<Data> datas;
+    IEnumerable<ShiftData> Shiftdat;
+    IEnumerable<JopData> Jopdat;
+    protected override async Task OnInitializedAsync()
+    {
+        datas = await DataService.GetData();
+        Shiftdat = await ShiftDataService.GetShift();
+        Jopdat = await JopDataService.GetDataJop();
+
+    }
+  
+    protected async Task CreateData()
+    {
+        await DataService.CreateData(dat);
+        message = "Account Created Successfully";
+        Thread.Sleep(2000);
+        NavigationManager.NavigateTo("Setting");
+    }
+    protected async Task CreateDataDiscount()
+    {
+        await DiscountDataService.CreateDataDiscount(Discountdat);
+    }
+    protected async Task CreateDataLoan()
+    {
+        await LoansDataService.CreateDataLoan(Loandat);
+    }
+    protected async Task CreateDataIncentive()
+    {
+        await IncentiveDataService.CreateDataIncentive(Incentivedat);
+    }
+
+
+
+
+
+
+}
